@@ -1,0 +1,4 @@
+/home/angela/sim/build/CMakeFiles/rebuild_cache.dir
+/home/angela/sim/build/CMakeFiles/Simulation.dir
+/home/angela/sim/build/CMakeFiles/edit_cache.dir
+/home/angela/sim/build/CMakeFiles/sim.dir
