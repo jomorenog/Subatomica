@@ -10,9 +10,9 @@
   //Creamos el visualizador, como visualizar a Dios en nuestro corazón
   TCanvas* c1 = new TCanvas("c1", " ");
   // Creamos el histograma, como me gustaria crear una historia con ella
-  TH1D* h1 = (TH1D*)fwlar.Get("1");
-  TH1D* h2 = (TH1D*)ffesci.Get("1");
-  TH1D* h3 = (TH1D*)fpblar.Get("1");
+  TH1D* h1 = (TH1D*)fwlar.Get("2");
+  TH1D* h2 = (TH1D*)ffesci.Get("2");
+  TH1D* h3 = (TH1D*)fpblar.Get("2");
 
   double x[] = {3.46, 3.46};
   double y[] = {0, 10};
@@ -36,17 +36,17 @@
   hb1->Fill(4.154, 38);
   
   //Color de la linea 
-  h2->SetLineColor(kRed);
-  h2->SetStats(0);
-  h2->SetTitle("Absorbente Pasivo");
-  h2->Draw("Hist");
-  h2->GetXaxis()->SetTitle("Energia depositada (GeV)");
-  h2->GetXaxis()->CenterTitle(true);
+  h3->SetLineColor(kGreen);
+  h3->SetStats(0);
+  h3->SetTitle("Absorbente Activo");
+  h3->Draw("Hist");
+  h3->GetXaxis()->SetTitle("Energia depositada (MeV)");
+  h3->GetXaxis()->CenterTitle(true);
   //hb2->Draw("same Hist" );
   c1->Update();
   
-  h3->SetLineColor(kGreen);
-  h3->Draw("same Hist");
+  h2->SetLineColor(kRed);
+  h2->Draw("same Hist");
   //hb3->Draw("same Hist" );
   h1->SetLineColor(kBlue);
   h1->Draw("same Hist");
@@ -55,11 +55,11 @@
   c1->SetGrid();
   
   // Limites del recuadro:Izquierdo, Arriba, Derechas, Abajo
-  TLegend* legend = new TLegend(0.2, 0.89, 0.35, 0.70);
-  legend->SetHeader("Material","C"); // option "C" allows to center the header
-  legend->AddEntry(h1,"W","l");
-  legend->AddEntry(h2,"Fe","l");
-  legend->AddEntry(h3,"Pb","l");
+  TLegend* legend = new TLegend(0.65, 0.88, 0.89, 0.70);
+  legend->SetHeader("Materiales","C"); // option "C" allows to center the header
+  legend->AddEntry(h1,"W-lAr","l");
+  legend->AddEntry(h2,"Fe-Sci","l");
+  legend->AddEntry(h3,"Pb-lAr","l");
   legend->SetFillColor(0);
   legend->SetTextSize(0.04);
   legend->SetTextFont(40);

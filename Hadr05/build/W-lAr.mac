@@ -28,6 +28,6 @@
 /analysis/h1/set 12 52   0.   52.  none	#long. profile in absor2
 /analysis/h1/set 21 102  0.   102. none	#energy flow
 #
-/run/printProgress 100
-/run/beamOn 1000
+/run/printProgress 5
+/run/beamOn 1
 

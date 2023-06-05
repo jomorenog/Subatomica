@@ -10,39 +10,27 @@
   //Creamos el visualizador, como visualizar a Dios en nuestro corazón
   TCanvas* c1 = new TCanvas("c1", " ");
   // Creamos el histograma, como me gustaria crear una historia con ella
-  TH1D* h1 = (TH1D*)fwlar.Get("1");
-  TH1D* h2 = (TH1D*)ffesci.Get("1");
-  TH1D* h3 = (TH1D*)fpblar.Get("1");
+  TH1D* h1 = (TH1D*)fwlar.Get("12");
+  TH1D* h2 = (TH1D*)ffesci.Get("12");
+  TH1D* h3 = (TH1D*)fpblar.Get("12");
 
-  double x[] = {3.46, 3.46};
-  double y[] = {0, 10};
-  double ex[]={0.3, 0.3};
-  double ey [] ={0, 0}; 
-  auto ge = new TGraphErrors(2, x, y, ex, ey);
-  ge->SetFillColor(6);
-  ge->SetFillStyle(3005);
-  ge->Draw("a4");
-  
   TLine *l = new TLine(3.46,0,3.46,10);
   auto hb1 = new TH1F("hb", "hb", 1,3.7764, 4.5316);
   auto hb2 = new TH1F("hb", "hb", 1,3.7823, 4.35);
   auto hb3 = new TH1F("hb", "hb", 1,3.1626, 3.7714);
   
-  hb2->SetFillColorAlpha(kRed, 0.60);
-  hb2->Fill(4.067, 42);
-  hb3->SetFillColorAlpha(kGreen, 0.60);
-  hb3->Fill(3.4, 28);
-  hb1->SetFillColorAlpha(kBlue, 0.60);
-  hb1->Fill(4.154, 38);
-  
   //Color de la linea 
   h2->SetLineColor(kRed);
   h2->SetStats(0);
-  h2->SetTitle("Absorbente Pasivo");
+  h2->SetTitle("Absorbente Activo");
   h2->Draw("Hist");
-  h2->GetXaxis()->SetTitle("Energia depositada (GeV)");
+  h2->GetXaxis()->SetTitle("Capa");
   h2->GetXaxis()->CenterTitle(true);
+  h2->GetYaxis()->SetTitle("Energia/Evento (MeV)");
+  h2->GetYaxis()->CenterTitle(true);
   //hb2->Draw("same Hist" );
+  c1->SetLogy(1);
+  c1->cd();
   c1->Update();
   
   h3->SetLineColor(kGreen);
@@ -57,9 +45,9 @@
   // Limites del recuadro:Izquierdo, Arriba, Derechas, Abajo
   TLegend* legend = new TLegend(0.2, 0.89, 0.35, 0.70);
   legend->SetHeader("Material","C"); // option "C" allows to center the header
-  legend->AddEntry(h1,"W","l");
-  legend->AddEntry(h2,"Fe","l");
-  legend->AddEntry(h3,"Pb","l");
+  legend->AddEntry(h1,"W-lAr> 4 mm","l");
+  legend->AddEntry(h2,"Fe-Sci> 4 mm","l");
+  legend->AddEntry(h3,"Pb-lAr> 4 mm","l");
   legend->SetFillColor(0);
   legend->SetTextSize(0.04);
   legend->SetTextFont(40);
