@@ -1,7 +1,7 @@
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/exampleB4b.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/edit_cache.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/rebuild_cache.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/list_install_components.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/install.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/install/local.dir
-/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/install/strip.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/exampleB4b.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/edit_cache.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/rebuild_cache.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/list_install_components.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/install.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/install/local.dir
+/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/install/strip.dir

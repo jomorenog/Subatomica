@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b
+CMAKE_SOURCE_DIR = "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build
+CMAKE_BINARY_DIR = "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/exampleB4b.dir/clean
 CMakeFiles/exampleB4b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/exampleB4b.dir/build.make CMakeFiles/exampleB4b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/exampleB4b.dir/build.make CMakeFiles/exampleB4b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target exampleB4b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9 "Built target exampleB4b"
 .PHONY : CMakeFiles/exampleB4b.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exampleB4b.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles" 9
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exampleB4b.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles" 0
 .PHONY : CMakeFiles/exampleB4b.dir/rule
 
 # Convenience name for target.

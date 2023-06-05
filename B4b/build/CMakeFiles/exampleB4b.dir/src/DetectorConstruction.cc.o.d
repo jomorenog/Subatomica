@@ -1,7 +1,7 @@
 CMakeFiles/exampleB4b.dir/src/DetectorConstruction.cc.o: \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/src/DetectorConstruction.cc \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/src/DetectorConstruction.cc \
  /usr/include/stdc-predef.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/DetectorConstruction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/DetectorConstruction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserDetectorConstruction.hh \
  /usr/include/c++/12.2.1/vector \
  /usr/include/c++/12.2.1/bits/stl_algobase.h \

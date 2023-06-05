@@ -1,9 +1,9 @@
 CMakeFiles/exampleB4b.dir/src/ActionInitialization.cc.o: \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/src/ActionInitialization.cc \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/src/ActionInitialization.cc \
  /usr/include/stdc-predef.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/ActionInitialization.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/ActionInitialization.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserActionInitialization.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/PrimaryGeneratorAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/PrimaryGeneratorAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/globals.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4ios.hh \
@@ -206,11 +206,11 @@ CMakeFiles/exampleB4b.dir/src/ActionInitialization.cc.o: \
  /usr/include/c++/12.2.1/bits/parse_numbers.h \
  /usr/include/c++/12.2.1/bits/std_mutex.h \
  /usr/include/c++/12.2.1/bits/unique_lock.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/RunAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/RunAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4UserRunAction.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/EventAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/EventAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4UserEventAction.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/SteppingAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/SteppingAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4UserSteppingAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4MTRunManager.hh \
  /usr/include/c++/12.2.1/list /usr/include/c++/12.2.1/bits/stl_list.h \
@@ -501,5 +501,5 @@ CMakeFiles/exampleB4b.dir/src/ActionInitialization.cc.o: \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4ApplicationState.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4UserTrackingAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4RunManagerKernel.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/DetectorConstruction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/DetectorConstruction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserDetectorConstruction.hh

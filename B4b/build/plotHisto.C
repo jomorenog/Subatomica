@@ -11,7 +11,7 @@
   //
 
   // Open file filled by Geant4 simulation
-  TFile f("B4.root");
+  TFile f("e.root");
 
   // Create a canvas and divide it into 2x2 pads
   TCanvas* c1 = new TCanvas("c1", "", 20, 20, 1000, 1000);

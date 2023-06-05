@@ -1,9 +1,9 @@
 CMakeFiles/exampleB4b.dir/src/SteppingAction.cc.o: \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/src/SteppingAction.cc \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/src/SteppingAction.cc \
  /usr/include/stdc-predef.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/SteppingAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/SteppingAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4UserSteppingAction.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/RunData.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/RunData.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4Run.hh \
  /usr/include/c++/12.2.1/vector \
  /usr/include/c++/12.2.1/bits/stl_algobase.h \
@@ -231,7 +231,7 @@ CMakeFiles/exampleB4b.dir/src/SteppingAction.cc.o: \
  /usr/include/c++/12.2.1/bits/stl_relops.h \
  /usr/include/c++/12.2.1/cstddef \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/globals.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/DetectorConstruction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/DetectorConstruction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4Step.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4ThreeVector.hh \

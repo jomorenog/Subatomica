@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b
+CMAKE_SOURCE_DIR = "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build
+CMAKE_BINARY_DIR = "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles" "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build//CMakeFiles/progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

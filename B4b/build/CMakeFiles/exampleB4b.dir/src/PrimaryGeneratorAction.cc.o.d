@@ -1,7 +1,7 @@
 CMakeFiles/exampleB4b.dir/src/PrimaryGeneratorAction.cc.o: \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/src/PrimaryGeneratorAction.cc \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/src/PrimaryGeneratorAction.cc \
  /usr/include/stdc-predef.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/PrimaryGeneratorAction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/PrimaryGeneratorAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/globals.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4ios.hh \

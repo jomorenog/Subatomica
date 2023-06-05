@@ -1,4 +1,4 @@
-# Install script for directory: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b
+# Install script for directory: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4b"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/exampleB4b")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/exampleB4b")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4b" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4b")
     file(RPATH_CHANGE
@@ -70,5 +70,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -28,7 +28,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is GNU, found in:
-        /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/3.26.3/CompilerIdC/a.out
+        /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/3.26.3/CompilerIdC/a.out
       
   -
     kind: "message-v1"
@@ -50,7 +50,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is GNU, found in:
-        /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out
+        /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/3.26.3/CompilerIdCXX/a.out
       
   -
     kind: "try_compile-v1"
@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -71,12 +71,12 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_4c85e/fast && /usr/bin/make  -f CMakeFiles/cmTC_4c85e.dir/build.make CMakeFiles/cmTC_4c85e.dir/build
-        make[1]: Entering directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9'
-        Building C object CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -o CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8c626/fast && /usr/bin/make  -f CMakeFiles/cmTC_8c626.dir/build.make CMakeFiles/cmTC_8c626.dir/build
+        make[1]: Entering directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3'
+        Building C object CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -o CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         Target: x86_64-pc-linux-gnu
@@ -84,8 +84,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 12.2.1 20230201 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_4c85e.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/ccpTPGkK.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_8c626.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/cctO5Xq2.s
         GNU C17 (GCC) version 12.2.1 20230201 (x86_64-pc-linux-gnu)
         	compiled by GNU C version 12.2.1 20230201, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version isl-0.26-GMP
         
@@ -103,15 +103,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: 99df1fbb4c4d7eeb8d93f0979bfab9ce
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/'
-         as -v --64 -o CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o /tmp/ccpTPGkK.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/'
+         as -v --64 -o CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o /tmp/cctO5Xq2.s
         GNU assembler version 2.40 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.'
-        Linking C executable cmTC_4c85e
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4c85e.dir/link.txt --verbose=1
-        /usr/bin/cc  -v CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -o cmTC_4c85e 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_8c626
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c626.dir/link.txt --verbose=1
+        /usr/bin/cc  -v CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -o cmTC_8c626 
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper
@@ -122,10 +122,10 @@ events:
         gcc version 12.2.1 20230201 (GCC) 
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4c85e' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_4c85e.'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccVPXrhW.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_4c85e /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4c85e' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_4c85e.'
-        make[1]: Leaving directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c626' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_8c626.'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cckfbgWM.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_8c626 /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c626' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_8c626.'
+        make[1]: Leaving directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3'
         
       exitCode: 0
   -
@@ -159,12 +159,12 @@ events:
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9]
+        ignore line: [Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3]
         ignore line: []
-        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_4c85e/fast && /usr/bin/make  -f CMakeFiles/cmTC_4c85e.dir/build.make CMakeFiles/cmTC_4c85e.dir/build]
-        ignore line: [make[1]: Entering directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-eUTka9']
-        ignore line: [Building C object CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8c626/fast && /usr/bin/make  -f CMakeFiles/cmTC_8c626.dir/build.make CMakeFiles/cmTC_8c626.dir/build]
+        ignore line: [make[1]: Entering directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-iHFvB3']
+        ignore line: [Building C object CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [Target: x86_64-pc-linux-gnu]
@@ -172,8 +172,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 12.2.1 20230201 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/']
-        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_4c85e.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/ccpTPGkK.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/']
+        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_8c626.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/cctO5Xq2.s]
         ignore line: [GNU C17 (GCC) version 12.2.1 20230201 (x86_64-pc-linux-gnu)]
         ignore line: [	compiled by GNU C version 12.2.1 20230201  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version isl-0.26-GMP]
         ignore line: []
@@ -191,15 +191,15 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: 99df1fbb4c4d7eeb8d93f0979bfab9ce]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o /tmp/ccpTPGkK.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o /tmp/cctO5Xq2.s]
         ignore line: [GNU assembler version 2.40 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_4c85e]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4c85e.dir/link.txt --verbose=1]
-        ignore line: [/usr/bin/cc  -v CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -o cmTC_4c85e ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_8c626]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c626.dir/link.txt --verbose=1]
+        ignore line: [/usr/bin/cc  -v CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -o cmTC_8c626 ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper]
@@ -210,13 +210,13 @@ events:
         ignore line: [gcc version 12.2.1 20230201 (GCC) ]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4c85e' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_4c85e.']
-        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccVPXrhW.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_4c85e /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c626' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_8c626.']
+        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cckfbgWM.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_8c626 /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccVPXrhW.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cckfbgWM.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -231,7 +231,7 @@ events:
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-pie] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_4c85e] ==> ignore
+          arg [cmTC_8c626] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o]
@@ -240,7 +240,7 @@ events:
           arg [-L/lib/../lib] ==> dir [/lib/../lib]
           arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
           arg [-L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../..] ==> dir [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../..]
-          arg [CMakeFiles/cmTC_4c85e.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_8c626.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--push-state] ==> ignore
           arg [--as-needed] ==> ignore
@@ -277,8 +277,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -287,12 +287,12 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b6f1e/fast && /usr/bin/make  -f CMakeFiles/cmTC_b6f1e.dir/build.make CMakeFiles/cmTC_b6f1e.dir/build
-        make[1]: Entering directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT'
-        Building CXX object CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9dda9/fast && /usr/bin/make  -f CMakeFiles/cmTC_9dda9.dir/build.make CMakeFiles/cmTC_9dda9.dir/build
+        make[1]: Entering directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy'
+        Building CXX object CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         Target: x86_64-pc-linux-gnu
@@ -300,8 +300,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 12.2.1 20230201 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b6f1e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccwwQlUz.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9dda9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cckZbUbM.s
         GNU C++17 (GCC) version 12.2.1 20230201 (x86_64-pc-linux-gnu)
         	compiled by GNU C version 12.2.1 20230201, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version isl-0.26-GMP
         
@@ -322,15 +322,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: ab2adc4aa87e9c5b6e6cb24c55e663d5
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/'
-         as -v --64 -o CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccwwQlUz.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/'
+         as -v --64 -o CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o /tmp/cckZbUbM.s
         GNU assembler version 2.40 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_b6f1e
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6f1e.dir/link.txt --verbose=1
-        /usr/bin/c++  -v CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b6f1e 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_9dda9
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9dda9.dir/link.txt --verbose=1
+        /usr/bin/c++  -v CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9dda9 
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper
@@ -341,10 +341,10 @@ events:
         gcc version 12.2.1 20230201 (GCC) 
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6f1e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b6f1e.'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAJwAyS.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_b6f1e /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6f1e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b6f1e.'
-        make[1]: Leaving directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dda9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dda9.'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3MeuHK.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dda9 /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dda9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dda9.'
+        make[1]: Leaving directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy'
         
       exitCode: 0
   -
@@ -384,12 +384,12 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT]
+        ignore line: [Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy]
         ignore line: []
-        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b6f1e/fast && /usr/bin/make  -f CMakeFiles/cmTC_b6f1e.dir/build.make CMakeFiles/cmTC_b6f1e.dir/build]
-        ignore line: [make[1]: Entering directory '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-61aGJT']
-        ignore line: [Building CXX object CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9dda9/fast && /usr/bin/make  -f CMakeFiles/cmTC_9dda9.dir/build.make CMakeFiles/cmTC_9dda9.dir/build]
+        ignore line: [make[1]: Entering directory '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Yunvhy']
+        ignore line: [Building CXX object CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [Target: x86_64-pc-linux-gnu]
@@ -397,8 +397,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 12.2.1 20230201 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/']
-        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b6f1e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccwwQlUz.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/']
+        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9dda9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cckZbUbM.s]
         ignore line: [GNU C++17 (GCC) version 12.2.1 20230201 (x86_64-pc-linux-gnu)]
         ignore line: [	compiled by GNU C version 12.2.1 20230201  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version isl-0.26-GMP]
         ignore line: []
@@ -419,15 +419,15 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: ab2adc4aa87e9c5b6e6cb24c55e663d5]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccwwQlUz.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o /tmp/cckZbUbM.s]
         ignore line: [GNU assembler version 2.40 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_b6f1e]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6f1e.dir/link.txt --verbose=1]
-        ignore line: [/usr/bin/c++  -v CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b6f1e ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_9dda9]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9dda9.dir/link.txt --verbose=1]
+        ignore line: [/usr/bin/c++  -v CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9dda9 ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper]
@@ -438,13 +438,13 @@ events:
         ignore line: [gcc version 12.2.1 20230201 (GCC) ]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6f1e' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b6f1e.']
-        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAJwAyS.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_b6f1e /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dda9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dda9.']
+        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3MeuHK.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dda9 /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../.. CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crtn.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccAJwAyS.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cc3MeuHK.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -459,7 +459,7 @@ events:
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-pie] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_b6f1e] ==> ignore
+          arg [cmTC_9dda9] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib/crti.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o]
@@ -468,7 +468,7 @@ events:
           arg [-L/lib/../lib] ==> dir [/lib/../lib]
           arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
           arg [-L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../..] ==> dir [/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/../../..]
-          arg [CMakeFiles/cmTC_b6f1e.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_9dda9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -507,8 +507,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -518,16 +518,16 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_14b6d/fast && /usr/bin/make  -f CMakeFiles/cmTC_14b6d.dir/build.make CMakeFiles/cmTC_14b6d.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB'
-        Building C object CMakeFiles/cmTC_14b6d.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_14b6d.dir/src.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB/src.c
-        Linking C executable cmTC_14b6d
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_14b6d.dir/link.txt --verbose=1
-        /usr/bin/cc CMakeFiles/cmTC_14b6d.dir/src.c.o -o cmTC_14b6d 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-BjiBgB'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_2b5c3/fast && /usr/bin/make  -f CMakeFiles/cmTC_2b5c3.dir/build.make CMakeFiles/cmTC_2b5c3.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A'
+        Building C object CMakeFiles/cmTC_2b5c3.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_2b5c3.dir/src.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A/src.c"
+        Linking C executable cmTC_2b5c3
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2b5c3.dir/link.txt --verbose=1
+        /usr/bin/cc CMakeFiles/cmTC_2b5c3.dir/src.c.o -o cmTC_2b5c3 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-yL1R4A'
         
       exitCode: 0
   -
@@ -541,8 +541,8 @@ events:
     checks:
       - "Looking for XOpenDisplay in /usr/lib/libX11.so;/usr/lib/libXext.so"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -552,16 +552,16 @@ events:
       variable: "X11_LIB_X11_SOLO"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_bbabc/fast && /usr/bin/make  -f CMakeFiles/cmTC_bbabc.dir/build.make CMakeFiles/cmTC_bbabc.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC'
-        Building C object CMakeFiles/cmTC_bbabc.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay -o CMakeFiles/cmTC_bbabc.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC/CheckFunctionExists.c
-        Linking C executable cmTC_bbabc
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bbabc.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay CMakeFiles/cmTC_bbabc.dir/CheckFunctionExists.c.o -o cmTC_bbabc  /usr/lib/libX11.so /usr/lib/libXext.so 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-bAm8aC'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7f49a/fast && /usr/bin/make  -f CMakeFiles/cmTC_7f49a.dir/build.make CMakeFiles/cmTC_7f49a.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq'
+        Building C object CMakeFiles/cmTC_7f49a.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay -o CMakeFiles/cmTC_7f49a.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq/CheckFunctionExists.c"
+        Linking C executable cmTC_7f49a
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f49a.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay CMakeFiles/cmTC_7f49a.dir/CheckFunctionExists.c.o -o cmTC_7f49a  /usr/lib/libX11.so /usr/lib/libXext.so 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JAMgHq'
         
       exitCode: 0
   -
@@ -575,8 +575,8 @@ events:
     checks:
       - "Looking for gethostbyname"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -586,16 +586,16 @@ events:
       variable: "CMAKE_HAVE_GETHOSTBYNAME"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_20413/fast && /usr/bin/make  -f CMakeFiles/cmTC_20413.dir/build.make CMakeFiles/cmTC_20413.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf'
-        Building C object CMakeFiles/cmTC_20413.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname -o CMakeFiles/cmTC_20413.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf/CheckFunctionExists.c
-        Linking C executable cmTC_20413
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_20413.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname CMakeFiles/cmTC_20413.dir/CheckFunctionExists.c.o -o cmTC_20413 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-zcZZTf'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a3c70/fast && /usr/bin/make  -f CMakeFiles/cmTC_a3c70.dir/build.make CMakeFiles/cmTC_a3c70.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj'
+        Building C object CMakeFiles/cmTC_a3c70.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname -o CMakeFiles/cmTC_a3c70.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj/CheckFunctionExists.c"
+        Linking C executable cmTC_a3c70
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3c70.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname CMakeFiles/cmTC_a3c70.dir/CheckFunctionExists.c.o -o cmTC_a3c70 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-U8LNAj'
         
       exitCode: 0
   -
@@ -609,8 +609,8 @@ events:
     checks:
       - "Looking for connect"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -620,16 +620,16 @@ events:
       variable: "CMAKE_HAVE_CONNECT"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_666af/fast && /usr/bin/make  -f CMakeFiles/cmTC_666af.dir/build.make CMakeFiles/cmTC_666af.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C'
-        Building C object CMakeFiles/cmTC_666af.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect -o CMakeFiles/cmTC_666af.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C/CheckFunctionExists.c
-        Linking C executable cmTC_666af
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_666af.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect CMakeFiles/cmTC_666af.dir/CheckFunctionExists.c.o -o cmTC_666af 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-K3uR9C'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ea816/fast && /usr/bin/make  -f CMakeFiles/cmTC_ea816.dir/build.make CMakeFiles/cmTC_ea816.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0'
+        Building C object CMakeFiles/cmTC_ea816.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect -o CMakeFiles/cmTC_ea816.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0/CheckFunctionExists.c"
+        Linking C executable cmTC_ea816
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ea816.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect CMakeFiles/cmTC_ea816.dir/CheckFunctionExists.c.o -o cmTC_ea816 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-J6rJM0'
         
       exitCode: 0
   -
@@ -643,8 +643,8 @@ events:
     checks:
       - "Looking for remove"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -654,16 +654,16 @@ events:
       variable: "CMAKE_HAVE_REMOVE"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_18c41/fast && /usr/bin/make  -f CMakeFiles/cmTC_18c41.dir/build.make CMakeFiles/cmTC_18c41.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C'
-        Building C object CMakeFiles/cmTC_18c41.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove -o CMakeFiles/cmTC_18c41.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C/CheckFunctionExists.c
-        Linking C executable cmTC_18c41
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18c41.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove CMakeFiles/cmTC_18c41.dir/CheckFunctionExists.c.o -o cmTC_18c41 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hAxy8C'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_36461/fast && /usr/bin/make  -f CMakeFiles/cmTC_36461.dir/build.make CMakeFiles/cmTC_36461.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC'
+        Building C object CMakeFiles/cmTC_36461.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove -o CMakeFiles/cmTC_36461.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC/CheckFunctionExists.c"
+        Linking C executable cmTC_36461
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36461.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove CMakeFiles/cmTC_36461.dir/CheckFunctionExists.c.o -o cmTC_36461 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-mwl2NC'
         
       exitCode: 0
   -
@@ -677,8 +677,8 @@ events:
     checks:
       - "Looking for shmat"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -688,16 +688,16 @@ events:
       variable: "CMAKE_HAVE_SHMAT"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ee80b/fast && /usr/bin/make  -f CMakeFiles/cmTC_ee80b.dir/build.make CMakeFiles/cmTC_ee80b.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8'
-        Building C object CMakeFiles/cmTC_ee80b.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat -o CMakeFiles/cmTC_ee80b.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8/CheckFunctionExists.c
-        Linking C executable cmTC_ee80b
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee80b.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat CMakeFiles/cmTC_ee80b.dir/CheckFunctionExists.c.o -o cmTC_ee80b 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-hfupa8'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7e552/fast && /usr/bin/make  -f CMakeFiles/cmTC_7e552.dir/build.make CMakeFiles/cmTC_7e552.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt'
+        Building C object CMakeFiles/cmTC_7e552.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat -o CMakeFiles/cmTC_7e552.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt/CheckFunctionExists.c"
+        Linking C executable cmTC_7e552
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7e552.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat CMakeFiles/cmTC_7e552.dir/CheckFunctionExists.c.o -o cmTC_7e552 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-JTYmtt'
         
       exitCode: 0
   -
@@ -711,8 +711,8 @@ events:
     checks:
       - "Looking for IceConnectionNumber in ICE"
     directories:
-      source: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M"
-      binary: "/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M"
+      source: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO"
+      binary: "/home/danjaro/Documentos/Semestre/Introducci\u00f3n a la f\u00edsica subat\u00f3mica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -722,16 +722,16 @@ events:
       variable: "CMAKE_LIB_ICE_HAS_ICECONNECTIONNUMBER"
       cached: true
       stdout: |
-        Change Dir: /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M
+        Change Dir: /home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ac576/fast && /usr/bin/make  -f CMakeFiles/cmTC_ac576.dir/build.make CMakeFiles/cmTC_ac576.dir/build
-        make[1]: se entra en el directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M'
-        Building C object CMakeFiles/cmTC_ac576.dir/CheckFunctionExists.c.o
-        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber -o CMakeFiles/cmTC_ac576.dir/CheckFunctionExists.c.o -c /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M/CheckFunctionExists.c
-        Linking C executable cmTC_ac576
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac576.dir/link.txt --verbose=1
-        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber CMakeFiles/cmTC_ac576.dir/CheckFunctionExists.c.o -o cmTC_ac576  -lICE 
-        make[1]: se sale del directorio '/home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/build/CMakeFiles/CMakeScratch/TryCompile-Hut16M'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a2d75/fast && /usr/bin/make  -f CMakeFiles/cmTC_a2d75.dir/build.make CMakeFiles/cmTC_a2d75.dir/build
+        make[1]: se entra en el directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO'
+        Building C object CMakeFiles/cmTC_a2d75.dir/CheckFunctionExists.c.o
+        /usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber -o CMakeFiles/cmTC_a2d75.dir/CheckFunctionExists.c.o -c "/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO/CheckFunctionExists.c"
+        Linking C executable cmTC_a2d75
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2d75.dir/link.txt --verbose=1
+        /usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber CMakeFiles/cmTC_a2d75.dir/CheckFunctionExists.c.o -o cmTC_a2d75  -lICE 
+        make[1]: se sale del directorio '/home/danjaro/Documentos/Semestre/Introducción a la física subatómica/Proyecto/Subatomica/B4b/build/CMakeFiles/CMakeScratch/TryCompile-PsQ2PO'
         
       exitCode: 0
 ...

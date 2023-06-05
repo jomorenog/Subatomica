@@ -1,7 +1,7 @@
 CMakeFiles/exampleB4b.dir/exampleB4b.cc.o: \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/exampleB4b.cc \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/exampleB4b.cc \
  /usr/include/stdc-predef.h \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/DetectorConstruction.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/DetectorConstruction.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserDetectorConstruction.hh \
  /usr/include/c++/12.2.1/vector \
  /usr/include/c++/12.2.1/bits/stl_algobase.h \
@@ -211,7 +211,7 @@ CMakeFiles/exampleB4b.dir/exampleB4b.cc.o: \
  /usr/include/c++/12.2.1/bits/std_mutex.h \
  /usr/include/c++/12.2.1/bits/unique_lock.h \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/globals.hh \
- /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1/examples/basic/B4/B4b/include/ActionInitialization.hh \
+ /home/danjaro/Documentos/Semestre/Introducción\ a\ la\ física\ subatómica/Proyecto/Subatomica/B4b/include/ActionInitialization.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4VUserActionInitialization.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4RunManagerFactory.hh \
  /home/danjaro/Descargas/apps/geant4/geant4-v11.1.1_INSTALL/include/Geant4/G4RunManager.hh \
